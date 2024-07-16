@@ -1,0 +1,37 @@
+footer {
+    background-color: var(--black);
+    border-top: 4px solid var(--Blue, #2271D1);
+    box-shadow: 0px 5px 29px 0px #2271D1B2;
+    padding: 40px 0px;
+
+    img {
+        width: 170px;
+        height: 40px;
+        object-fit: cover;
+    }
+}
+
+.footer-mobile {
+    gap: 75px;
+    display: none !important;
+
+    .btn {
+        gap: 10px;
+        font-size: 20px;
+        font-weight: 900;
+        border-radius: 50px;
+        box-shadow: none;
+        background: #2271D13D;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    footer {
+        display: none !important;
+    }
+
+    .footer-mobile {
+        display: flex !important;
+    }
+
+}

@@ -1,0 +1,65 @@
+{
+  "videos": [
+    {
+      "title": "Guia de carreira Front-end",
+      "category": "Front end",
+      "image": "https://www.alura.com.br/assets/img/escola-categorias/sharing/escola-front-end-share.1647533643.jpg",
+      "url": "https://www.youtube.com/watch?v=fpth65ts3cw&list=PLh2Y_pKOa4UddwTMZhqQLj_1M_g-_fUXY&ab_channel=Alura",
+      "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T.",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Escola de Design",
+      "category": "Front end",
+      "image": "https://www.alura.com.br/assets/img/escola-categorias/sharing/escola-design-ux-share.1647533643.jpg",
+      "url": "https://www.youtube.com/watch?v=3XpNbEKEPwk&ab_channel=Alura",
+      "description": "Design Thinking: o que é? Todos podem aprender? Onde e como pode ser aplicado? Entenda mais nesse vídeo com a Carla de Bona sobre como solucionar problemas de uma forma diferente."
+    },
+    {
+      "id": "5",
+      "title": "O que é React JS? #HipstersPontoTube",
+      "category": "Front end",
+      "image": "https://th.bing.com/th/id/OIP.Mk6k6gogq3-fGFrLPNzhKwHaD_?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&ab_channel=Alura",
+      "description": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele."
+    },
+
+    {
+      "id": "6",
+      "title": "O que é Node JS? #HipstersPontoTube",
+      "category": "Back end",
+      "image": "https://i3.ytimg.com/vi/8VSTrZY8vwI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w",
+      "description": "Neste episódio do Hipsters.tube, Mario Souto e Paulo Silveira conversam sobre o Node .JS, eles explicam o que essa plataforma tão utilizada no universo Front-end faz, como ela surgiu e quais são suas aplicações."
+    }
+    ,
+    {
+      "id": "7",
+      "title": "Orientação a objetos com Roberta Arcoverde | #HipstersPontoTube",
+      "category": "Back end",
+      "image": "https://i.ytimg.com/vi/jpuJ1qrluoU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jpuJ1qrluoU&embeds_referring_euri=https%3A%2F%2Fwww.alura.com.br%2F&source_ve_path=MjM4NTE&feature=emb_title",
+      "description": "Neste #HipstersPontoTube o host Paulo Silveira bate um papo com a Roberta Arcoverde sobre a utilização de orientação a objeto e suas aplicações."
+    }
+    ,
+    {
+      "id": "8",
+      "title": "Desmistificando Mobile- Por onde eu começo? #01",
+      "category": "Mobile",
+      "image": "https://i.ytimg.com/vi/2z6f8VN_Pro/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2z6f8VN_Pro&ab_channel=Alura",
+      "description": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa 😉"
+    }
+    ,
+    {
+      "id": "9",
+      "title": "Desmistificando mobile- Linguagens e Frameworks #2",
+      "category": "Mobile",
+      "image": "https://i.ytimg.com/vi/fmu1LQvZhms/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fmu1LQvZhms&ab_channel=Alura",
+      "description": "No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um pouco mais sobre frameworks e linguagens de programação e porque existem diferentes para fazer um aplicativo de celular. Vêm aprender um pouco na companhia do Alex Felipe, da Nathalia Thiel, Giovanna Moeller e do Caio Couto 😉"
+    }
+
+  ]
+}

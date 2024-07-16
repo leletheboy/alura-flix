@@ -1,0 +1,21 @@
+div.header {
+    padding: 45px 55px;
+    background-color: var(--dark-gray);
+    border-bottom: 4px solid var(--Blue, #2271D1);
+    box-shadow: 0px 5px 29px 0px #2271D1B2;
+
+    img {
+        width: 168.45px;
+        height: 40px;
+    }
+
+    div {
+        gap: 25px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    div.header {
+        display: none;
+    }
+}

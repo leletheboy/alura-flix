@@ -1,0 +1,56 @@
+.modal-backshadow {
+    width: 100vw;
+    height: 100vh;
+    background: #03122FC2;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .modal-dialog {
+        width: 865px;
+        border: 5px solid #6BD1FF;
+        border-radius: 15px;
+        padding: 60px 145px;
+        background: #03122F;
+        position: relative;
+        overflow: auto;
+        max-height: 80%;
+
+        .close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 43px;
+            cursor: pointer;
+            color: var(--white);
+            transition: color 0.2s ease-in-out;
+            cursor: pointer;
+        }
+
+        h3 {
+            color: #2271D1;
+            font-size: 60px;
+            font-weight: 900;
+            line-height: 70.31px;
+            text-transform: uppercase;
+        }
+
+        form {
+            margin-top: 40px;
+            gap: 40px;
+        }
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .modal-backshadow {
+        .modal-dialog {
+            padding: 60px;
+        }
+    }
+
+}

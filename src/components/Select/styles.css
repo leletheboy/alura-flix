@@ -1,0 +1,23 @@
+.form-control {
+    width: 100%;
+
+    .form-label {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        color: var(--white);
+    }
+
+    select {
+        padding: 16px 10px;
+        border: 3px solid var(--Blue, #2271D1);
+        background-color: transparent;
+        color: #A5A5A5;
+        font-size: 20px;
+        border-radius: 10px;
+
+        &::placeholder {
+            color: #A5A5A5;
+        }
+    }
+}

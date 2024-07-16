@@ -1,0 +1,37 @@
+.btn {
+    padding: 12px 40px;
+    border: 2px solid;
+    border-color: var(--blue);
+    background-color: var(--black);
+    color: var(--blue);
+    border-radius: 10px;
+    box-shadow: 0px 0px 12px 4px inset;
+    cursor: pointer;
+}
+
+.btn-blue {
+    border-color: var(--blue);
+    color: var(--blue);
+}
+
+.btn-green {
+    border-color: var(--green);
+    color: var(--green);
+}
+
+.btn-yellow {
+    border-color: var(--yellow);
+    color: var(--yellow);
+}
+
+.btn-red {
+    border-color: var(--red);
+    color: var(--red);
+}
+
+.btn-white {
+    border-color: var(--white);
+    color: var(--white);
+    background-color: transparent;
+    box-shadow: none;
+}
